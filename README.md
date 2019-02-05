@@ -1,4 +1,4 @@
-# Cours MIW 2019
+
 
 Développement d'un clone de l'application [Yuka](https://yuka.io/) sous la forme d'une web-app et d'un serveur node.JS.
 
